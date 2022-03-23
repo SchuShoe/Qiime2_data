@@ -1,3 +1,4 @@
 id	disease_stat	description
 ERR1883195	healthy	Donor1
-
+Kimchi	healthy	Donor2
+Kimchi_plus_ERR1883195	healthy	Donor3
