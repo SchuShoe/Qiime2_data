@@ -1,3 +1,4 @@
 sample-id	absolute-filepath
 ERR1883195	$PWD/data/ERR1883195.fastq.gz
 Kimchi	$PWD/data/Kimchi.fastq.gz
+Merged	$PWD/data/Merged.fastq.gz
